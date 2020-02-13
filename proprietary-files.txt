@@ -122,6 +122,9 @@ vendor/firmware/bu63169.prog
 vendor/firmware/bu64748gwz.coeff
 vendor/firmware/bu64748gwz.prog
 
+# Charger
+sbin/mz_charger:bin/meizu_charger
+
 # Fingerprint
 vendor/bin/hw/meizu.biometrics.fingerprint@2.1-service
 vendor/etc/init/meizu.biometrics.fingerprint@2.1-service.rc
