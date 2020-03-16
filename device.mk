@@ -31,6 +31,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.mokee.livedisplay@2.0-service.m1872
 
+# Sensors
+PRODUCT_PACKAGES += \
+    android.hardware.sensors@1.0-service.m1872
+
  # Vibrator
  PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.3-service.m1872
